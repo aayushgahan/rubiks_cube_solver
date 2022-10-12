@@ -2,7 +2,7 @@
 // Created by hp on 03-10-2022.
 //
 
-include<bits/stdc++.h>
+#include<bits/stdc++.h>
 #include "../Model/RubiksCube.h"
 #include "DFSSolver.h"
 
